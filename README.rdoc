@@ -10,6 +10,6 @@ Rails version is 4.0.2, Ruby version is 2.1.2p95.
 
 The final application will scratch the surface of being a market place where users will be able to place orders, upload products and more.
 
-Chapter 3: Presenting the Users
+Chapter 3.1.1: Presenting the Users
 
-Notes: rails g devise User threw an error when it tried to run an rspec generator. WTF. Worked around it by manually adding the missing files (I hope).
+Notes: Ch 3.1 - rails g devise User threw an error when it tried to run an rspec generator. WTF. Worked around it by manually adding the missing files (I hope).
