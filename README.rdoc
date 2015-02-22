@@ -2,9 +2,9 @@
 
 This repo is forked from https://github.com/kurenn/market_place_api.git
 
-This tutorial is based on the book “APIs on Rails” by Abraham Kuri and can be found at apionrails.icalialabs.com.
+This tutorial is based on the book “APIs on Rails” by Abraham Kuri and can be found at http://apionrails.icalialabs.com.
 
-Copyright and License info can be found at apionrails.icalialabs.com/book.
+Copyright and License info can be found at http://apionrails.icalialabs.com/book/frontmatter#copyright_and_license.
 
 Rails version is 4.0.2, Ruby version is 2.1.2p95.
 
